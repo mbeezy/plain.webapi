@@ -5,13 +5,14 @@ A super clean and plain 'ol WebAPI project template
     - Web
     - ASP.NET Web Application
         - Name your project
-        - Uncheck “Create directory for solution” (check if your project will be the main solution)
+        - Check “Create directory for solution”
             - A good structure to follow
-                - Project Name (Solution Level)
-                    - Project Name.WebApi (Project Level)
-                    - Project Name.Web (Project Level)
-                    - Project Name.Data (Project Level)
-                    - Project Name.Tests (Project Level)
+                - Project Name (Solution)
+                    - Project Name.WebApi (Project)
+                    - Project Name.Web (Project)
+                    - Project Name.Data (Project)
+                    - Project Name.Tests (Project)
+                    - Others...
         - Click OK
     - Select a template
         - Empty
